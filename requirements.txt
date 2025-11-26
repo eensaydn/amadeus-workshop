@@ -1,0 +1,26 @@
+# Core Dependencies
+groq
+python-dotenv
+
+# Data Processing
+pandas
+
+# LangChain & RAG
+langchain
+langchain-core
+langchain-text-splitters
+langchain-groq
+langchain-community
+langchain-huggingface
+
+# Embeddings & Vector Store
+sentence-transformers
+chromadb
+huggingface-hub
+
+# Document Processing
+pypdf
+
+# Development Tools
+jupyter
+ipykernel
